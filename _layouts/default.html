@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    {% include head-custom.html %}
+    <title> NaN </title>
+  </head>
+  <body>
+
+    <header class="page-header" role="banner">
+      <script>
+        let tt = document.title ;
+        if( tt == "own-business")
+        {
+          document.title = "NONE";
+        }
+        else
+        {
+          let ttl = tt.replace("| own-business"," ");
+          document.title = ttl; 
+        }
+      </script>
+      <h1 class="project-name">OWN BUSINESS</h1>
+      <div style="width:100%;background-color:black; " >
+       <a href="/own-business" style="padding:5px;background-color:white;color:black;float:right;" >go to home</a>
+      </div>
+    </header>
+    
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+       <!--a href="#content" style="border:1px solid black;padding:10px;background-color:orange;text-decoration:none;color:black" >Developed by cbz</a-->
+        
+      </footer>
+    </main>
+  </body>
+</html>
