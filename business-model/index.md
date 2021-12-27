@@ -12,3 +12,5 @@
 - indivisual social plateform
 - skil based country and areas
 - independent local collabration human empowerment business model in local area
+- investor and business model
+- 
