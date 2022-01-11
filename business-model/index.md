@@ -1,16 +1,4 @@
 # business model
-- public copper based water
-- plastic management service
-- waste management service and small portable recycling device
-- research and development service for business man in our society
 - common and specific business knowledge
-- forestation based farming
-- forestation with marting
-- forest based micro house with advance facility like opods in hong kong
-- fruit tree listing service
 - waste mangement memes
-- indivisual social plateform
-- skil based country and areas
-- independent local collabration human empowerment business model in local area
-- investor and business model
-- 
+- investor and business model 
